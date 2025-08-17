@@ -41,7 +41,7 @@ Permite agregar nombres, validarlos, mostrarlos en una lista y finalmente sortea
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/FrankRC1/challenge-amigo-secreto_esp-main.git
 
 2. Abre el proyecto:
 
@@ -53,3 +53,4 @@ Permite agregar nombres, validarlos, mostrarlos en una lista y finalmente sortea
 ## ✨ Autor
 
 Desarrollado por Frank Rua 👨‍💻
+
